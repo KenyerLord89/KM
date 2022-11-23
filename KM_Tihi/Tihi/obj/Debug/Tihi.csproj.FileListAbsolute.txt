@@ -1,0 +1,7 @@
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\bin\Debug\Tihi.exe.config
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\bin\Debug\Tihi.exe
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\bin\Debug\Tihi.pdb
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\obj\Debug\Tihi.csproj.AssemblyReference.cache
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\obj\Debug\Tihi.csproj.CoreCompileInputs.cache
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\obj\Debug\Tihi.exe
+E:\Sulis\Szoftgy\2022_11_23\KM_Tihi\Tihi\obj\Debug\Tihi.pdb
